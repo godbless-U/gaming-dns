@@ -68,7 +68,6 @@ class DnsManager {
   static const _masterPoolKey = 'master_dns_pool';
   static const _displayListKey = 'display_dns_list';
   static const _geoCacheKey = 'dns_geo_cache';
-  static const _githubCacheKey = 'github_hunt_cache';
   static const _metadataKey = 'dns_metadata';
 
   /// These are community-labelled gaming/public DNS examples. They are not
