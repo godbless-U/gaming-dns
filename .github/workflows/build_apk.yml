@@ -1,0 +1,106 @@
+name: Gaming DNS - Update Database & Build APK
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Update DNS database from GitHub and public sources
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python tool/update_dns_database.py
+
+      - name: Commit refreshed DNS database
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/dns_database.json
+          if git diff --cached --quiet; then
+            echo "DNS database did not change."
+          else
+            git commit -m "chore: refresh DNS database [skip ci]"
+            git push
+          fi
+
+      - name: Setup Java 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+          cache: gradle
+
+      - name: Setup Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.38.1'
+          channel: stable
+          cache: true
+
+      # The repository intentionally contains only the Android files that are
+      # specific to the VPN service. Flutter generates the rest of Android/Gradle
+      # from the selected Flutter SDK so the build stays compatible with that SDK.
+      - name: Recreate Flutter Android project safely
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          mkdir -p /tmp/gaming_dns_backup/res/drawable /tmp/gaming_dns_backup/res/values
+          cp android/app/src/main/AndroidManifest.xml /tmp/gaming_dns_backup/AndroidManifest.xml
+          cp android/app/src/main/kotlin/com/example/gaming_dns/MainActivity.kt /tmp/gaming_dns_backup/MainActivity.kt
+          cp android/app/src/main/kotlin/com/example/gaming_dns/GamingVpnService.kt /tmp/gaming_dns_backup/GamingVpnService.kt
+          cp android/app/src/main/res/drawable/ic_launcher.xml /tmp/gaming_dns_backup/res/drawable/ic_launcher.xml || true
+          cp android/app/src/main/res/values/styles.xml /tmp/gaming_dns_backup/res/values/styles.xml || true
+          cp android/app/src/main/res/values/colors.xml /tmp/gaming_dns_backup/res/values/colors.xml || true
+
+          rm -rf android
+          flutter create --platforms=android --org com.example --project-name gaming_dns .
+
+          cp /tmp/gaming_dns_backup/AndroidManifest.xml android/app/src/main/AndroidManifest.xml
+          cp /tmp/gaming_dns_backup/MainActivity.kt android/app/src/main/kotlin/com/example/gaming_dns/MainActivity.kt
+          cp /tmp/gaming_dns_backup/GamingVpnService.kt android/app/src/main/kotlin/com/example/gaming_dns/GamingVpnService.kt
+          mkdir -p android/app/src/main/res/drawable android/app/src/main/res/values
+          cp /tmp/gaming_dns_backup/res/drawable/ic_launcher.xml android/app/src/main/res/drawable/ic_launcher.xml || true
+          cp /tmp/gaming_dns_backup/res/values/styles.xml android/app/src/main/res/values/styles.xml || true
+          cp /tmp/gaming_dns_backup/res/values/colors.xml android/app/src/main/res/values/colors.xml || true
+
+          rm -rf test
+
+      - name: Get Flutter dependencies
+        run: flutter pub get
+
+      - name: Analyze Dart code
+        run: flutter analyze
+
+      - name: Build release APK
+        env:
+          DNS_DATABASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/main/data/dns_database.json
+        run: |
+          flutter build apk --release --dart-define=DNS_DATABASE_URL="$DNS_DATABASE_URL"
+
+      - name: Upload release APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: Gaming-DNS-Release-APK
+          path: build/app/outputs/flutter-apk/app-release.apk
+          if-no-files-found: error
+          retention-days: 14
