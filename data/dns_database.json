@@ -1,9 +1,9 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-28T23:15:45Z",
+  "generated_at": "2026-09-29T05:42:19Z",
   "source_count": 4,
   "github_repository_count": 24,
-  "count": 68029,
+  "count": 68028,
   "items": [
     {
       "ip": "1.0.0.1",
@@ -88735,7 +88735,7 @@
     },
     {
       "ip": "23.149.208.5",
-      "source": "GitHub: Phasip/resolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -388118,12 +388118,6 @@
     {
       "ip": "203.147.81.243",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "203.147.94.71",
-      "source": "GitHub: Phasip/resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
