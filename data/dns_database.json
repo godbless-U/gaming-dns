@@ -1,9 +1,9 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-29T22:14:01Z",
+  "generated_at": "2026-09-30T05:30:46Z",
   "source_count": 4,
   "github_repository_count": 24,
-  "count": 68184,
+  "count": 68182,
   "items": [
     {
       "ip": "1.0.0.1",
@@ -39320,18 +39320,6 @@
     {
       "ip": "202.229.255.8",
       "source": "GitHub public-dns-directory / all.txt",
-      "category": "Gaming / GitHub",
-      "gamingTagged": true
-    },
-    {
-      "ip": "203.0.113.10",
-      "source": "GitHub: DarkPoesidon/WhitePrivateDns",
-      "category": "Gaming / GitHub",
-      "gamingTagged": true
-    },
-    {
-      "ip": "203.0.113.11",
-      "source": "GitHub: DarkPoesidon/WhitePrivateDns",
       "category": "Gaming / GitHub",
       "gamingTagged": true
     },
