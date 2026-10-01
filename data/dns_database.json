@@ -1,9 +1,9 @@
 {
   "schema": 2,
-  "generated_at": "2026-09-30T22:14:32Z",
+  "generated_at": "2026-10-01T05:49:48Z",
   "source_count": 4,
   "github_repository_count": 24,
-  "count": 68210,
+  "count": 68211,
   "items": [
     {
       "ip": "1.0.0.1",
@@ -376538,6 +376538,12 @@
     {
       "ip": "196.179.250.50",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "196.179.250.89",
+      "source": "GitHub: Phasip/resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
