@@ -1,9 +1,9 @@
 {
   "schema": 2,
-  "generated_at": "2026-10-02T22:12:39Z",
+  "generated_at": "2026-10-03T05:16:43Z",
   "source_count": 4,
   "github_repository_count": 24,
-  "count": 67763,
+  "count": 67764,
   "items": [
     {
       "ip": "1.0.0.1",
@@ -365864,6 +365864,12 @@
     {
       "ip": "191.255.210.80",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "192.0.2.1",
+      "source": "GitHub: api-evangelist/unstoppable-domains",
       "category": "Public DNS",
       "gamingTagged": false
     },
