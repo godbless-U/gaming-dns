@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-10-06T00:02:05Z",
+  "generated_at": "2026-10-06T06:18:04Z",
   "source_count": 4,
   "github_repository_count": 24,
   "count": 67733,
@@ -209616,6 +209616,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "93.184.216.34",
+      "source": "GitHub: tomlen045/httpdiff",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "93.185.185.19",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -220723,7 +220729,7 @@
     },
     {
       "ip": "95.110.166.62",
-      "source": "GitHub: Phasip/resolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -311702,12 +311708,6 @@
     {
       "ip": "170.244.57.7",
       "source": "GitHub public-dns-directory / all.txt",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "170.244.57.8",
-      "source": "GitHub: Phasip/resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
