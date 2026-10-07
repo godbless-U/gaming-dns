@@ -1,9 +1,9 @@
 {
   "schema": 2,
-  "generated_at": "2026-10-06T18:20:55Z",
+  "generated_at": "2026-10-07T05:57:06Z",
   "source_count": 4,
   "github_repository_count": 24,
-  "count": 67867,
+  "count": 67864,
   "items": [
     {
       "ip": "1.0.0.1",
@@ -58632,12 +58632,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "2.28.3.17",
-      "source": "GitHub: sawtoothradiocorp/galenaDNS",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "2.28.65.8",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -62012,12 +62006,6 @@
     {
       "ip": "2.247.133.85",
       "source": "GitHub: OpenResolversFoundation/openresolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "3.0.0.4",
-      "source": "GitHub: sawtoothradiocorp/galenaDNS",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -86070,12 +86058,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "17.3.28.2",
-      "source": "GitHub: sawtoothradiocorp/galenaDNS",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "17.13.207.146",
       "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
@@ -93800,12 +93782,6 @@
     {
       "ip": "32.39.146.143",
       "source": "GitHub: OpenResolversFoundation/openresolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "32.42.113.0",
-      "source": "GitHub: sawtoothradiocorp/galenaDNS",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -113324,12 +113300,6 @@
     {
       "ip": "46.61.217.168",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "46.62.237.108",
-      "source": "GitHub: sawtoothradiocorp/galenaDNS",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -237924,6 +237894,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "94.140.15.16",
+      "source": "GitHub: denizsnet/public-dns-servers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "94.140.104.242",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -333366,12 +333342,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "176.197.7.54",
-      "source": "GitHub: Phasip/resolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "176.210.100.18",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -351732,8 +351702,26 @@
       "gamingTagged": false
     },
     {
+      "ip": "185.228.168.10",
+      "source": "GitHub: denizsnet/public-dns-servers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "185.228.168.168",
       "source": "GitHub: lulushuz/Awesome-Resolver",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "185.228.169.11",
+      "source": "GitHub: denizsnet/public-dns-servers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "185.228.169.168",
+      "source": "GitHub: denizsnet/public-dns-servers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -366734,12 +366722,6 @@
     {
       "ip": "191.255.210.80",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.0.2.1",
-      "source": "GitHub: sawtoothradiocorp/galenaDNS",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -386340,12 +386322,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "203.0.113.42",
-      "source": "GitHub: sawtoothradiocorp/galenaDNS",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "203.1.9.10",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -391064,6 +391040,12 @@
     {
       "ip": "208.67.29.251",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "208.67.220.123",
+      "source": "GitHub: denizsnet/public-dns-servers",
       "category": "Public DNS",
       "gamingTagged": false
     },
