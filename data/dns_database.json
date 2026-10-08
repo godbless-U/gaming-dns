@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-10-07T23:04:32Z",
+  "generated_at": "2026-10-08T06:00:52Z",
   "source_count": 4,
   "github_repository_count": 24,
   "count": 67919,
@@ -125281,7 +125281,7 @@
     },
     {
       "ip": "62.93.33.21",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: Phasip/resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
