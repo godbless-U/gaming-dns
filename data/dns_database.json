@@ -1,9 +1,9 @@
 {
   "schema": 2,
-  "generated_at": "2026-10-08T23:19:56Z",
+  "generated_at": "2026-10-09T06:06:26Z",
   "source_count": 4,
   "github_repository_count": 24,
-  "count": 67810,
+  "count": 67805,
   "items": [
     {
       "ip": "1.0.0.1",
@@ -234576,12 +234576,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "94.140.15.16",
-      "source": "GitHub: denizsnet/public-dns-servers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "94.140.104.242",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -350070,26 +350064,8 @@
       "gamingTagged": false
     },
     {
-      "ip": "185.228.168.10",
-      "source": "GitHub: denizsnet/public-dns-servers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "185.228.168.168",
       "source": "GitHub: lulushuz/Awesome-Resolver",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "185.228.169.11",
-      "source": "GitHub: denizsnet/public-dns-servers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "185.228.169.168",
-      "source": "GitHub: denizsnet/public-dns-servers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -390200,12 +390176,6 @@
     {
       "ip": "208.67.29.251",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "208.67.220.123",
-      "source": "GitHub: denizsnet/public-dns-servers",
       "category": "Public DNS",
       "gamingTagged": false
     },
