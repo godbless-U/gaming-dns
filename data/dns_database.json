@@ -1,9 +1,9 @@
 {
   "schema": 2,
-  "generated_at": "2026-10-16T11:20:23Z",
+  "generated_at": "2026-10-16T16:37:12Z",
   "source_count": 4,
   "github_repository_count": 25,
-  "count": 67881,
+  "count": 68044,
   "items": [
     {
       "ip": "1.1.1.1",
@@ -8725,7 +8725,7 @@
     },
     {
       "ip": "1.9.111.99",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: rathinadev/recon-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -17718,12 +17718,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "2.28.3.17",
-      "source": "GitHub: sawtoothradiocorp/galenaDNS",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "2.28.65.8",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -21188,12 +21182,6 @@
     {
       "ip": "2.239.222.206",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "3.0.0.4",
-      "source": "GitHub: sawtoothradiocorp/galenaDNS",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -28584,6 +28572,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "5.134.118.198",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "5.134.119.37",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -32882,6 +32876,12 @@
     {
       "ip": "5.175.120.106",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "5.175.180.171",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -38947,7 +38947,7 @@
     },
     {
       "ip": "8.20.247.2",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -39241,7 +39241,7 @@
     },
     {
       "ip": "8.20.247.64",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -39529,7 +39529,7 @@
     },
     {
       "ip": "8.20.247.137",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -46740,12 +46740,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "17.3.28.2",
-      "source": "GitHub: sawtoothradiocorp/galenaDNS",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "17.91.231.60",
       "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
@@ -48031,7 +48025,7 @@
     },
     {
       "ip": "23.56.161.88",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -48552,6 +48546,18 @@
       "gamingTagged": false
     },
     {
+      "ip": "23.129.180.195",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "23.133.64.121",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "23.134.56.1",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -48588,6 +48594,18 @@
       "gamingTagged": false
     },
     {
+      "ip": "23.137.249.26",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "23.137.253.24",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "23.145.240.37",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -48606,14 +48624,38 @@
       "gamingTagged": false
     },
     {
+      "ip": "23.150.40.121",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "23.154.81.92",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "23.175.48.62",
       "source": "public-dns.info",
       "category": "Public DNS",
       "gamingTagged": false
     },
     {
+      "ip": "23.184.48.19",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "23.189.48.79",
       "source": "GitHub public-dns-directory / all.txt",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "23.191.80.43",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -48944,6 +48986,12 @@
     {
       "ip": "23.228.211.187",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "23.230.253.98",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -53227,7 +53275,7 @@
     },
     {
       "ip": "27.147.164.86",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -55286,12 +55334,6 @@
     {
       "ip": "32.5.37.224",
       "source": "GitHub: OpenResolversFoundation/openresolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "32.42.113.0",
-      "source": "GitHub: sawtoothradiocorp/galenaDNS",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -57510,6 +57552,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "37.114.58.115",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "37.114.60.159",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -57548,6 +57596,12 @@
     {
       "ip": "37.120.142.115",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "37.120.151.11",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -57636,8 +57690,20 @@
       "gamingTagged": false
     },
     {
+      "ip": "37.120.234.251",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "37.120.235.187",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "37.120.236.11",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -58340,6 +58406,12 @@
     {
       "ip": "37.228.93.107",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "37.228.129.160",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -63186,6 +63258,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "43.224.180.137",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "43.225.23.38",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -64344,6 +64422,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "45.41.204.204",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "45.47.34.102",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -65082,6 +65166,24 @@
       "gamingTagged": false
     },
     {
+      "ip": "45.67.84.132",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "45.67.85.219",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "45.67.86.123",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "45.67.219.208",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -65598,6 +65700,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "45.82.120.61",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "45.82.120.100",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -65702,6 +65810,12 @@
     {
       "ip": "45.86.96.13",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "45.86.162.110",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -70182,6 +70296,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "45.90.59.193",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "45.90.80.14",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -70274,6 +70394,12 @@
     {
       "ip": "45.95.10.251",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "45.95.38.29",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -70488,6 +70614,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "45.123.188.129",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "45.123.188.223",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -70686,6 +70818,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "45.134.48.25",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "45.134.165.53",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -70760,6 +70898,12 @@
     {
       "ip": "45.139.157.235",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "45.140.164.127",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -70884,6 +71028,18 @@
       "gamingTagged": false
     },
     {
+      "ip": "45.147.51.123",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "45.147.98.223",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "45.147.162.78",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -70982,6 +71138,12 @@
     {
       "ip": "45.154.87.87",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "45.155.37.165",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -74742,6 +74904,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "45.249.91.150",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "45.249.102.48",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -75025,7 +75193,7 @@
     },
     {
       "ip": "46.13.5.26",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -76082,12 +76250,6 @@
     {
       "ip": "46.61.217.168",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "46.62.237.108",
-      "source": "GitHub: sawtoothradiocorp/galenaDNS",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -82086,6 +82248,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "51.15.122.250",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "51.15.146.60",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -83486,6 +83654,12 @@
     {
       "ip": "52.65.215.178",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "52.65.235.129",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -89653,7 +89827,7 @@
     },
     {
       "ip": "61.254.39.30",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -92364,6 +92538,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "63.133.223.138",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "63.134.86.38",
       "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
@@ -94518,6 +94698,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "65.21.252.201",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "65.27.67.206",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -96504,8 +96690,20 @@
       "gamingTagged": false
     },
     {
+      "ip": "66.187.4.39",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "66.187.4.115",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "66.187.7.140",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -96823,7 +97021,7 @@
     },
     {
       "ip": "66.232.139.10",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -96956,6 +97154,12 @@
     {
       "ip": "67.17.215.133",
       "source": "GitHub public-dns-directory / all.txt",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "67.20.140.233",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -124110,6 +124314,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "77.247.127.107",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "77.247.149.155",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -126984,6 +127194,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "78.129.248.67",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "78.129.250.10",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -129564,6 +129780,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "79.110.53.51",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "79.110.62.11",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -130196,6 +130418,12 @@
     {
       "ip": "79.122.231.177",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "79.124.7.43",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -140256,12 +140484,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "81.30.219.213",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "81.30.220.71",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -144978,6 +145200,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "82.22.20.34",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "82.30.168.77",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -146700,6 +146928,18 @@
       "gamingTagged": false
     },
     {
+      "ip": "82.118.16.121",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "82.118.21.189",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "82.118.227.235",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -148166,6 +148406,12 @@
     {
       "ip": "82.165.57.32",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "82.165.61.52",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -151716,6 +151962,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "83.138.55.186",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "83.139.47.24",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -151886,6 +152138,12 @@
     {
       "ip": "83.143.146.43",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "83.143.242.43",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -158107,7 +158365,7 @@
     },
     {
       "ip": "84.200.69.80",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: lulushuz/Awesome-Resolver",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -161150,6 +161408,12 @@
     {
       "ip": "85.90.160.69",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "85.90.197.7",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -176749,7 +177013,7 @@
     },
     {
       "ip": "88.221.162.231",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -177056,6 +177320,12 @@
     {
       "ip": "88.221.163.235",
       "source": "GitHub public-dns-directory / all.txt",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "88.221.163.239",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -179628,6 +179898,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "89.106.78.106",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "89.106.106.5",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -180596,6 +180872,12 @@
     {
       "ip": "89.116.88.18",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "89.117.2.17",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -184646,6 +184928,12 @@
     {
       "ip": "90.42.147.127",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "90.46.206.248",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -190494,6 +190782,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "91.108.80.159",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "91.109.21.163",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -194936,6 +195230,12 @@
     {
       "ip": "91.208.184.4",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "91.209.16.98",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -207210,6 +207510,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "93.95.115.21",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "93.95.159.93",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -209886,6 +210192,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "93.183.106.222",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "93.183.204.1",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -210962,6 +211274,12 @@
     {
       "ip": "94.26.26.148",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "94.26.35.57",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -213308,6 +213626,12 @@
     {
       "ip": "94.130.19.213",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "94.130.180.225",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -221652,6 +221976,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "95.131.202.105",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "95.132.228.234",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -222056,6 +222386,12 @@
     {
       "ip": "95.143.181.166",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "95.143.196.16",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -224730,6 +225066,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "95.216.138.141",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "95.216.141.159",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -225554,6 +225896,12 @@
     {
       "ip": "96.9.222.6",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "96.9.228.27",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -234108,6 +234456,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "102.216.79.237",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "102.216.116.17",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -236030,6 +236384,12 @@
     {
       "ip": "103.38.144.78",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "103.38.250.55",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -238872,6 +239232,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "103.108.228.15",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "103.109.0.82",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -239041,7 +239407,7 @@
     },
     {
       "ip": "103.110.10.214",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: rathinadev/recon-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -239480,6 +239846,12 @@
     {
       "ip": "103.113.209.234",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "103.114.162.65",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -240162,6 +240534,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "103.124.106.233",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "103.124.197.148",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -240776,6 +241154,12 @@
     {
       "ip": "103.131.55.150",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "103.131.189.191",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -242390,6 +242774,12 @@
     {
       "ip": "103.144.167.226",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "103.144.177.57",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -249144,6 +249534,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "103.174.51.71",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "103.174.52.73",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -250286,6 +250682,18 @@
     {
       "ip": "103.179.27.138",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "103.179.44.73",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "103.179.45.6",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -252618,6 +253026,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "103.199.16.93",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "103.199.17.158",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -253752,6 +254166,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "104.36.86.181",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "104.36.203.120",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -253902,6 +254322,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "104.156.154.11",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "104.156.249.78",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -254022,6 +254448,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "104.200.67.194",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "104.211.16.27",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -254064,6 +254496,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "104.225.129.106",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "104.231.164.10",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -254078,6 +254516,12 @@
     {
       "ip": "104.233.195.89",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "104.234.231.239",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -255116,6 +255560,12 @@
     {
       "ip": "107.181.196.105",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "107.182.173.83",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -268332,6 +268782,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "118.91.184.89",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "118.91.233.68",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -270080,12 +270536,6 @@
     {
       "ip": "119.201.155.78",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "119.201.211.21",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -277890,6 +278340,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "128.254.207.50",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "129.0.63.204",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -278594,6 +279050,12 @@
     {
       "ip": "130.193.122.173",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "130.195.212.211",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -280304,6 +280766,12 @@
     {
       "ip": "135.181.100.234",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "135.181.193.222",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -283254,6 +283722,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "143.20.12.32",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "143.33.176.33",
       "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
@@ -284580,6 +285054,18 @@
       "gamingTagged": false
     },
     {
+      "ip": "146.70.154.67",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "146.70.240.203",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "146.71.76.129",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -285162,6 +285648,18 @@
       "gamingTagged": false
     },
     {
+      "ip": "147.189.136.183",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "147.189.140.136",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "147.199.175.207",
       "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
@@ -285686,6 +286184,12 @@
     {
       "ip": "149.28.65.242",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "149.28.101.119",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -286784,6 +287288,18 @@
     {
       "ip": "151.243.109.94",
       "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "151.243.222.94",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "151.245.106.181",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -289644,6 +290160,18 @@
       "gamingTagged": false
     },
     {
+      "ip": "157.20.27.79",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "157.20.105.115",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "157.22.92.3",
       "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
@@ -291504,6 +292032,18 @@
       "gamingTagged": false
     },
     {
+      "ip": "160.119.233.245",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "160.119.234.156",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "160.119.235.74",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -291590,6 +292130,12 @@
     {
       "ip": "160.174.129.120",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "160.191.182.216",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -291704,6 +292250,18 @@
     {
       "ip": "160.251.94.114",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "160.251.168.25",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "160.251.214.172",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -307758,6 +308316,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "162.254.86.13",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "162.255.15.250",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -307820,6 +308384,12 @@
     {
       "ip": "163.44.49.226",
       "source": "GitHub public-dns-directory / all.txt",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "163.44.124.204",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -307920,6 +308490,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "163.172.34.56",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "163.172.45.226",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -307982,6 +308558,12 @@
     {
       "ip": "163.172.168.171",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "163.172.180.125",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -308778,6 +309360,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "165.99.131.95",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "165.140.28.173",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -308804,6 +309392,12 @@
     {
       "ip": "165.140.30.89",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "165.140.117.248",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -309422,6 +310016,18 @@
     {
       "ip": "167.86.127.141",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "167.88.48.18",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "167.88.51.245",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -311616,6 +312222,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "169.239.128.124",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "169.239.176.144",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -312619,7 +313231,7 @@
     },
     {
       "ip": "170.244.57.7",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -312752,6 +313364,12 @@
     {
       "ip": "170.249.203.131",
       "source": "GitHub public-dns-directory / all.txt",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "170.249.237.154",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -317724,6 +318342,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "172.93.167.214",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "172.94.127.12",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -319872,6 +320496,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "173.249.205.198",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "173.251.21.58",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -321104,6 +321734,12 @@
     {
       "ip": "175.45.59.150",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "175.45.182.179",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -322956,6 +323592,18 @@
       "gamingTagged": false
     },
     {
+      "ip": "176.111.219.126",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "176.111.223.167",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "176.112.128.96",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -323012,6 +323660,12 @@
     {
       "ip": "176.112.236.6",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "176.113.74.19",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -323270,6 +323924,18 @@
     {
       "ip": "176.122.194.117",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "176.123.4.231",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "176.123.10.105",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -326552,6 +327218,24 @@
     {
       "ip": "177.174.112.253",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "177.177.83.64",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "177.177.83.83",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "177.177.83.84",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -330230,6 +330914,12 @@
     {
       "ip": "179.61.90.22",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "179.61.223.47",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -340044,6 +340734,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "185.66.143.178",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "185.66.250.42",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -340202,6 +340898,12 @@
     {
       "ip": "185.75.163.190",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "185.75.243.80",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -340536,6 +341238,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "185.93.221.167",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "185.93.240.132",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -340710,6 +341418,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "185.99.133.112",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "185.99.153.225",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -340812,8 +341526,20 @@
       "gamingTagged": false
     },
     {
+      "ip": "185.106.96.210",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "185.106.131.141",
       "source": "GitHub public-dns-directory / all.txt",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "185.107.80.84",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -341112,6 +341838,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "185.111.188.46",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "185.112.147.95",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -341324,6 +342056,12 @@
     {
       "ip": "185.126.253.45",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "185.126.255.30",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -341618,6 +342356,12 @@
     {
       "ip": "185.138.204.215",
       "source": "GitHub public-dns-directory / all.txt",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "185.138.210.169",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -342140,6 +342884,12 @@
     {
       "ip": "185.164.181.60",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "185.165.44.164",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -342828,6 +343578,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "185.194.53.22",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "185.194.169.35",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -342854,6 +343610,12 @@
     {
       "ip": "185.195.152.2",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "185.195.236.16",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -343094,6 +343856,12 @@
     {
       "ip": "185.207.107.185",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "185.207.125.100",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -343440,6 +344208,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "185.228.168.10",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "185.228.168.12",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -343538,6 +344312,12 @@
     {
       "ip": "185.231.12.243",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "185.231.100.106",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -350136,12 +350916,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "188.69.237.104",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "188.69.243.33",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -350666,6 +351440,12 @@
     {
       "ip": "188.130.7.211",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "188.132.192.168",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -354745,7 +355525,7 @@
     },
     {
       "ip": "190.63.160.34",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -358140,6 +358920,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "190.211.255.227",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "190.212.138.62",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -359736,12 +360522,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "192.0.2.1",
-      "source": "GitHub: sawtoothradiocorp/galenaDNS",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "192.3.26.101",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -359978,6 +360758,12 @@
     {
       "ip": "192.71.166.92",
       "source": "GitHub public-dns-directory / all.txt",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "192.71.218.121",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -360260,6 +361046,12 @@
     {
       "ip": "192.121.76.70",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "192.121.119.19",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -361262,6 +362054,12 @@
     {
       "ip": "193.42.159.2",
       "source": "GitHub public-dns-directory / all.txt",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "193.42.246.108",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -362382,6 +363180,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "193.201.188.48",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "193.201.240.58",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -363204,6 +364008,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "194.26.213.15",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "194.26.222.149",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -363354,6 +364164,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "194.32.107.48",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "194.33.76.1",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -363470,6 +364286,12 @@
     {
       "ip": "194.39.196.31",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "194.39.205.10",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -364236,6 +365058,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "194.135.119.158",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "194.135.120.130",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -364484,6 +365312,12 @@
     {
       "ip": "194.163.181.207",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "194.164.194.216",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -365336,6 +366170,12 @@
     {
       "ip": "195.3.204.225",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "195.3.221.162",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -366420,6 +367260,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "195.72.60.66",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "195.72.231.118",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -367146,6 +367992,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "195.114.14.74",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "195.115.77.137",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -367230,8 +368082,20 @@
       "gamingTagged": false
     },
     {
+      "ip": "195.123.212.200",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "195.123.218.127",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "195.123.245.19",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -368118,6 +368982,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "195.206.104.203",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "195.208.4.1",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -368826,6 +369696,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "195.242.212.131",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "195.242.217.207",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -369320,6 +370196,12 @@
     {
       "ip": "196.46.20.118",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "196.46.50.93",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -369920,6 +370802,12 @@
     {
       "ip": "196.234.255.246",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "196.240.79.163",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -372030,6 +372918,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "198.134.107.82",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "198.135.188.11",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -372062,6 +372956,12 @@
     {
       "ip": "198.136.58.194",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "198.140.141.46",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -372626,6 +373526,12 @@
     {
       "ip": "199.117.92.73",
       "source": "GitHub public-dns-directory / all.txt",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "199.119.137.74",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -379392,6 +380298,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "202.61.236.67",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "202.61.247.8",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -381984,12 +382896,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "203.0.113.42",
-      "source": "GitHub: sawtoothradiocorp/galenaDNS",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "203.1.9.10",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -382058,6 +382964,12 @@
     {
       "ip": "203.28.174.1",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "203.29.240.249",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -387252,6 +388164,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "207.246.87.96",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "207.246.94.220",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -387554,6 +388472,12 @@
     {
       "ip": "208.67.220.120",
       "source": "GitHub public-dns-directory / all.txt",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "208.67.220.123",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -388794,6 +389718,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "209.135.170.51",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "209.136.8.87",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -389108,6 +390038,12 @@
     {
       "ip": "209.181.254.2",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "209.182.225.103",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -394266,6 +395202,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "212.47.228.136",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "212.47.235.81",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -398478,6 +399420,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "213.196.191.96",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "213.198.29.83",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -399600,6 +400548,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "216.73.159.26",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "216.74.49.30",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -399776,6 +400730,12 @@
     {
       "ip": "216.119.155.49",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "216.120.201.105",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -400518,6 +401478,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "216.238.80.219",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "216.238.98.60",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -400590,6 +401556,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "216.245.140.20",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "216.245.213.122",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -400622,6 +401594,12 @@
     {
       "ip": "216.248.70.122",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "216.250.97.148",
+      "source": "GitHub: DNSCrypt/dnscrypt-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
