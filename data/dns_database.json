@@ -1,9 +1,9 @@
 {
   "schema": 2,
-  "generated_at": "2026-10-18T20:40:05Z",
+  "generated_at": "2026-10-19T04:37:41Z",
   "source_count": 4,
   "github_repository_count": 26,
-  "count": 64690,
+  "count": 64484,
   "items": [
     {
       "ip": "1.1.1.1",
@@ -15606,12 +15606,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "1.179.157.205",
-      "source": "GitHub: rathinadev/recon-resolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "1.179.158.217",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -17089,7 +17083,7 @@
     },
     {
       "ip": "1.248.31.202",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: rathinadev/recon-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -23972,12 +23966,6 @@
     {
       "ip": "5.32.63.14",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "5.32.72.134",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -32730,12 +32718,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "5.178.76.172",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "5.178.82.106",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -34154,12 +34136,6 @@
     {
       "ip": "5.187.65.143",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "5.187.78.146",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -38730,18 +38706,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "8.20.247.0",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "8.20.247.2",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "8.20.247.3",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -38760,20 +38724,8 @@
       "gamingTagged": false
     },
     {
-      "ip": "8.20.247.6",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "8.20.247.7",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "8.20.247.8",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -38948,12 +38900,6 @@
     {
       "ip": "8.20.247.49",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "8.20.247.51",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -39204,20 +39150,8 @@
       "gamingTagged": false
     },
     {
-      "ip": "8.20.247.102",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "8.20.247.103",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "8.20.247.105",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -39228,32 +39162,8 @@
       "gamingTagged": false
     },
     {
-      "ip": "8.20.247.107",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "8.20.247.108",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "8.20.247.109",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "8.20.247.110",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "8.20.247.112",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -39336,18 +39246,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "8.20.247.134",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "8.20.247.137",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "8.20.247.138",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -39398,12 +39296,6 @@
     {
       "ip": "8.20.247.150",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "8.20.247.152",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -39506,18 +39398,6 @@
     {
       "ip": "8.20.247.175",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "8.20.247.176",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "8.20.247.177",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -39840,12 +39720,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "8.20.247.251",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "8.20.247.254",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -40058,12 +39932,6 @@
     {
       "ip": "8.26.56.7",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "8.26.56.8",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -40584,12 +40452,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "8.26.56.117",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "8.26.56.118",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -40903,18 +40765,6 @@
     },
     {
       "ip": "8.26.56.190",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "8.26.56.192",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "8.26.56.193",
       "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
@@ -43508,12 +43358,6 @@
     {
       "ip": "9.9.9.13",
       "source": "GitHub public-dns-directory / all.txt",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "12.0.210.194",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -47478,12 +47322,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "23.31.51.242",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "23.31.62.13",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -47514,12 +47352,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "23.56.160.79",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "23.56.160.116",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -47546,12 +47378,6 @@
     {
       "ip": "23.56.160.252",
       "source": "GitHub public-dns-directory / all.txt",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "23.56.161.5",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -48348,12 +48174,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "23.216.53.128",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "23.216.53.151",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -48362,12 +48182,6 @@
     {
       "ip": "23.216.53.152",
       "source": "GitHub public-dns-directory / all.txt",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "23.216.53.155",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -52452,12 +52266,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "27.110.222.98",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "27.110.222.126",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -52716,12 +52524,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "27.135.204.65",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "27.145.54.74",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -52748,12 +52550,6 @@
     {
       "ip": "27.147.158.194",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "27.147.164.86",
-      "source": "GitHub: rathinadev/recon-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -52814,12 +52610,6 @@
     {
       "ip": "27.174.10.164",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "27.174.13.166",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -55872,12 +55662,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "37.17.53.108",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "37.17.61.236",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -55994,12 +55778,6 @@
     {
       "ip": "37.18.240.53",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "37.18.255.71",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -57242,12 +57020,6 @@
     {
       "ip": "37.186.119.247",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "37.186.124.135",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -59180,12 +58952,6 @@
     {
       "ip": "38.135.49.152",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "38.141.25.244",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -65412,12 +65178,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "45.90.28.55",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "45.90.28.56",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -66312,12 +66072,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "45.90.28.205",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "45.90.28.206",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -67022,12 +66776,6 @@
     {
       "ip": "45.90.29.130",
       "source": "GitHub public-dns-directory / all.txt",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "45.90.29.132",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -68934,12 +68682,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "45.90.30.205",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "45.90.30.206",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -69416,12 +69158,6 @@
     {
       "ip": "45.90.31.185",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "45.90.31.189",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -74604,12 +74340,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "46.29.78.51",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "46.29.78.218",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -77324,12 +77054,6 @@
     {
       "ip": "47.42.41.54",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "47.44.3.69",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -83982,12 +83706,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "58.137.148.83",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "58.137.148.186",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -85676,12 +85394,6 @@
     {
       "ip": "59.125.183.176",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "59.125.209.82",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -89844,12 +89556,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "62.106.59.147",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "62.109.82.161",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -91380,12 +91086,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "63.149.147.193",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "63.149.179.137",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -91854,12 +91554,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "64.6.128.62",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "64.6.253.42",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -92018,12 +91712,6 @@
     {
       "ip": "64.44.139.149",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "64.45.185.87",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -92528,12 +92216,6 @@
     {
       "ip": "64.119.80.100",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "64.119.128.166",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -93138,12 +92820,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "64.233.219.99",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "64.233.219.100",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -93386,12 +93062,6 @@
     {
       "ip": "65.39.166.131",
       "source": "GitHub public-dns-directory / all.txt",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "65.39.166.132",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -94080,12 +93750,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "65.152.254.167",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "65.153.59.41",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -94416,12 +94080,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "65.220.15.2",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "65.220.16.3",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -94430,12 +94088,6 @@
     {
       "ip": "65.220.16.5",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "65.220.42.38",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -95574,12 +95226,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "66.232.139.10",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "66.232.139.27",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -95708,12 +95354,6 @@
     {
       "ip": "67.17.215.133",
       "source": "GitHub public-dns-directory / all.txt",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "67.20.140.233",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -95870,18 +95510,6 @@
     {
       "ip": "67.85.77.4",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "67.97.247.50",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "67.97.247.52",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -103098,12 +102726,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "72.167.42.99",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "72.167.45.177",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -105254,12 +104876,6 @@
     {
       "ip": "72.234.34.143",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "72.234.100.183",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -111840,12 +111456,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "74.123.230.1",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "74.124.52.242",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -115266,12 +114876,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "76.85.68.107",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "76.85.152.17",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -117344,12 +116948,6 @@
     {
       "ip": "77.37.162.252",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "77.37.164.143",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -119730,12 +119328,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "77.78.205.16",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "77.78.205.71",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -119768,12 +119360,6 @@
     {
       "ip": "77.79.132.7",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "77.79.133.19",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -120194,12 +119780,6 @@
     {
       "ip": "77.87.100.52",
       "source": "GitHub public-dns-directory / all.txt",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "77.87.103.181",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -124142,12 +123722,6 @@
     {
       "ip": "78.46.58.246",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "78.46.80.82",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -130302,12 +129876,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "79.170.252.235",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "79.170.252.236",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -133632,12 +133200,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "80.90.132.107",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "80.90.137.38",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -136728,12 +136290,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "80.252.17.91",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "80.252.25.19",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -136796,12 +136352,6 @@
     {
       "ip": "80.252.145.154",
       "source": "GitHub public-dns-directory / all.txt",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "80.252.156.90",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -138786,12 +138336,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "81.30.219.213",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "81.30.220.71",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -138884,12 +138428,6 @@
     {
       "ip": "81.43.68.191",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "81.45.43.133",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -144288,12 +143826,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "82.78.168.19",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "82.78.175.232",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -145490,12 +145022,6 @@
     {
       "ip": "82.134.209.186",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "82.135.26.24",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -147426,12 +146952,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "82.204.200.246",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "82.204.201.18",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -148994,12 +148514,6 @@
     {
       "ip": "83.69.2.66",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "83.69.10.10",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -151068,12 +150582,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "83.171.114.10",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "83.171.114.66",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -153062,12 +152570,6 @@
     {
       "ip": "83.228.107.91",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "83.228.107.193",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -155898,12 +155400,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "84.54.131.65",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "84.54.132.0",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -157664,12 +157160,6 @@
     {
       "ip": "84.254.52.113",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "84.254.54.243",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -161088,12 +160578,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "85.132.110.126",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "85.132.110.152",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -161672,12 +161156,6 @@
     {
       "ip": "85.172.11.115",
       "source": "GitHub public-dns-directory / all.txt",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "85.172.11.139",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -174756,12 +174234,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "88.221.162.0",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "88.221.162.7",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -174900,12 +174372,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "88.221.162.140",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "88.221.162.146",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -174920,12 +174386,6 @@
     {
       "ip": "88.221.162.152",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "88.221.162.153",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -174998,12 +174458,6 @@
     {
       "ip": "88.221.162.203",
       "source": "GitHub public-dns-directory / all.txt",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "88.221.162.204",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -175212,12 +174666,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "88.221.163.141",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "88.221.163.146",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -175302,18 +174750,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "88.221.163.207",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "88.221.163.220",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "88.221.163.227",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -175326,38 +174762,14 @@
       "gamingTagged": false
     },
     {
-      "ip": "88.221.163.230",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "88.221.163.235",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
       "gamingTagged": false
     },
     {
-      "ip": "88.221.163.238",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "88.221.163.239",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "88.221.163.240",
       "source": "GitHub public-dns-directory / all.txt",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "88.221.163.255",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -176612,12 +176024,6 @@
     {
       "ip": "89.26.105.121",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "89.26.115.34",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -178452,12 +177858,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "89.109.40.32",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "89.109.40.76",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -179340,12 +178740,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "89.147.203.186",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "89.147.204.226",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -179366,12 +178760,6 @@
     {
       "ip": "89.147.205.202",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "89.147.252.172",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -180044,12 +179432,6 @@
     {
       "ip": "89.175.214.16",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "89.175.218.191",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -190500,12 +189882,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "91.148.109.139",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "91.148.120.154",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -191964,12 +191340,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "91.194.246.45",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "91.194.246.223",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -192440,12 +191810,6 @@
     {
       "ip": "91.201.122.36",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "91.201.136.36",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -195194,12 +194558,6 @@
     {
       "ip": "91.229.114.147",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "91.229.216.3",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -205062,12 +204420,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "93.91.119.90",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "93.91.119.168",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -206868,12 +206220,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "93.158.35.122",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "93.158.35.159",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -206946,12 +206292,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "93.158.228.243",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "93.158.235.219",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -206978,12 +206318,6 @@
     {
       "ip": "93.159.133.130",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "93.159.141.38",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -212142,12 +211476,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "94.154.57.51",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "94.154.86.60",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -215252,12 +214580,6 @@
     {
       "ip": "94.253.14.211",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "94.253.15.114",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -219212,12 +218534,6 @@
     {
       "ip": "95.110.131.72",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "95.110.131.139",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -223200,12 +222516,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "96.7.136.44",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "96.7.136.45",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -223428,12 +222738,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "96.7.137.13",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "96.7.137.15",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -223514,12 +222818,6 @@
     {
       "ip": "96.7.137.92",
       "source": "GitHub public-dns-directory / all.txt",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "96.7.137.102",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -223910,12 +223208,6 @@
     {
       "ip": "96.30.79.13",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "96.30.79.84",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -227678,12 +226970,6 @@
     {
       "ip": "98.152.187.235",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "98.152.244.34",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -235014,12 +234300,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "103.84.132.2",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "103.84.132.50",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -236911,7 +236191,7 @@
     },
     {
       "ip": "103.106.219.121",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: rathinadev/recon-resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -239928,12 +239208,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "103.141.75.2",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "103.141.90.137",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -240578,12 +239852,6 @@
     {
       "ip": "103.145.46.79",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "103.145.46.80",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -251520,12 +250788,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "103.237.97.164",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "103.237.126.4",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -253478,12 +252740,6 @@
     {
       "ip": "108.162.42.172",
       "source": "GitHub public-dns-directory / all.txt",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "108.162.46.243",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -257352,12 +256608,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "111.92.96.19",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "111.92.96.51",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -257834,12 +257084,6 @@
     {
       "ip": "112.133.184.234",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "112.133.192.89",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -266220,12 +265464,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "118.217.180.182",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "118.218.6.137",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -268548,12 +267786,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "121.119.138.109",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "121.119.170.152",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -269462,12 +268694,6 @@
     {
       "ip": "121.254.77.51",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "121.254.134.99",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -271285,7 +270511,7 @@
     },
     {
       "ip": "123.24.206.120",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: Phasip/resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -273956,12 +273182,6 @@
     {
       "ip": "125.206.240.234",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "125.206.247.33",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -277898,12 +277118,6 @@
     {
       "ip": "138.97.118.118",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "138.97.177.27",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -283284,12 +282498,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "152.32.80.251",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "152.32.172.144",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -283506,12 +282714,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "152.149.135.10",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "152.156.126.74",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -283520,12 +282722,6 @@
     {
       "ip": "152.158.36.48",
       "source": "GitHub public-dns-directory / all.txt",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "152.165.116.5",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -284724,12 +283920,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "154.66.240.30",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "154.68.199.22",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -285582,12 +284772,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "156.154.70.2",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "156.154.70.5",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -285614,12 +284798,6 @@
     {
       "ip": "156.154.70.11",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "156.154.70.13",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -285822,12 +285000,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "156.154.71.12",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "156.154.71.13",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -285846,12 +285018,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "156.154.71.22",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "156.154.71.25",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -285864,32 +285030,14 @@
       "gamingTagged": false
     },
     {
-      "ip": "156.154.71.29",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "156.154.71.33",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
       "gamingTagged": false
     },
     {
-      "ip": "156.154.71.40",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "156.154.71.41",
       "source": "GitHub public-dns-directory / all.txt",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "156.154.71.42",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -289022,18 +288170,6 @@
     {
       "ip": "162.159.36.253",
       "source": "GitHub public-dns-directory / all.txt",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "162.159.38.8",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "162.159.44.248",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -292266,12 +291402,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "166.200.113.59",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "166.200.113.63",
       "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
@@ -292280,12 +291410,6 @@
     {
       "ip": "166.200.113.122",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "166.203.128.183",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -294356,12 +293480,6 @@
     {
       "ip": "168.228.232.5",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "168.228.232.251",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -301170,12 +300288,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "173.212.242.89",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "173.212.243.123",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -301362,12 +300474,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "173.223.99.66",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "173.223.99.71",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -301382,12 +300488,6 @@
     {
       "ip": "173.223.99.82",
       "source": "GitHub public-dns-directory / all.txt",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "173.223.99.83",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -301448,12 +300548,6 @@
     {
       "ip": "173.223.99.172",
       "source": "GitHub public-dns-directory / all.txt",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "173.223.99.175",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -304064,12 +303158,6 @@
     {
       "ip": "176.32.63.7",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "176.33.142.139",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -309174,12 +308262,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "177.244.25.118",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "177.247.0.122",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -311142,12 +310224,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "178.214.241.150",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "178.215.69.19",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -311568,12 +310644,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "178.239.224.161",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "178.239.224.223",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -311870,12 +310940,6 @@
     {
       "ip": "179.1.131.25",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "179.1.133.89",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -315756,12 +314820,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "181.177.141.190",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "181.188.145.115",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -316082,12 +315140,6 @@
     {
       "ip": "181.204.72.122",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "181.204.75.178",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -318632,12 +317684,6 @@
     {
       "ip": "183.104.69.82",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "183.104.157.72",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -323274,12 +322320,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "185.129.115.86",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "185.129.192.63",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -323828,12 +322868,6 @@
     {
       "ip": "185.153.92.140",
       "source": "GitHub public-dns-directory / all.txt",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "185.153.92.197",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -325616,18 +324650,6 @@
     {
       "ip": "185.242.117.184",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "185.242.177.7",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "185.242.177.8",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -331152,12 +330174,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "187.190.112.108",
-      "source": "GitHub: rathinadev/recon-resolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "187.190.120.15",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -335592,12 +334608,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "190.0.59.102",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "190.0.62.118",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -336638,12 +335648,6 @@
     {
       "ip": "190.64.140.243",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "190.64.151.74",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -339806,12 +338810,6 @@
     {
       "ip": "190.202.9.199",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "190.202.135.58",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -343116,30 +342114,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "193.58.251.101",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "193.58.251.102",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "193.58.251.103",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "193.58.251.104",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "193.58.251.105",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -343994,12 +342968,6 @@
     {
       "ip": "193.165.115.98",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "193.165.116.70",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -345332,12 +344300,6 @@
     {
       "ip": "194.44.211.78",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "194.44.216.10",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -347790,12 +346752,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "195.46.39.39",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "195.46.39.40",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -349986,12 +348942,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "195.211.84.53",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "195.211.84.188",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -351542,12 +350492,6 @@
     {
       "ip": "196.216.134.71",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "196.216.252.65",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -353958,12 +352902,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "199.88.158.1",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "199.89.55.10",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -354266,12 +353204,6 @@
     {
       "ip": "199.241.174.242",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "199.243.95.1",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -354590,12 +353522,6 @@
     {
       "ip": "200.16.208.187",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "200.21.227.130",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -360894,12 +359820,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "202.69.50.161",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "202.69.60.254",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -363044,12 +361964,6 @@
     {
       "ip": "202.181.178.6",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "202.181.178.163",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -365454,20 +364368,8 @@
       "gamingTagged": false
     },
     {
-      "ip": "203.231.233.131",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "203.232.22.80",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "203.232.27.11",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -368586,12 +367488,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "207.249.157.35",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "207.250.236.61",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -368880,12 +367776,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "208.72.120.204",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "208.72.160.67",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -368906,12 +367796,6 @@
     {
       "ip": "208.74.69.5",
       "source": "GitHub public-dns-directory / all.txt",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "208.74.71.20",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -368990,12 +367874,6 @@
     {
       "ip": "208.78.220.65",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "208.79.56.204",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -370788,12 +369666,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "210.0.255.216",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "210.0.255.250",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -371622,18 +370494,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "210.104.203.2",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "210.104.203.3",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "210.106.54.42",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -372192,12 +371052,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "210.205.247.4",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "210.206.162.2",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -372540,12 +371394,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "210.233.117.1",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "210.238.228.218",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -372764,12 +371612,6 @@
     {
       "ip": "211.11.44.172",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "211.12.254.10",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -373416,12 +372258,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "211.63.16.5",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "211.63.33.182",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -373740,12 +372576,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "211.116.138.5",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "211.118.26.77",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -373796,12 +372626,6 @@
     {
       "ip": "211.170.122.12",
       "source": "GitHub public-dns-directory / all.txt",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "211.170.243.20",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -374486,12 +373310,6 @@
     {
       "ip": "211.252.168.144",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "211.254.92.254",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -378222,12 +377040,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "213.68.194.51",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "213.73.3.164",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Public DNS",
@@ -379082,12 +377894,6 @@
     {
       "ip": "213.155.199.195",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "213.156.44.184",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -381236,12 +380042,6 @@
     {
       "ip": "216.183.223.119",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "216.183.223.168",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -384936,12 +383736,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "219.166.16.122",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "219.166.48.58",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -385004,24 +383798,6 @@
     {
       "ip": "219.250.231.91",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "219.252.0.1",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "219.252.1.100",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "219.252.2.100",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -385106,12 +383882,6 @@
     {
       "ip": "220.80.154.244",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "220.81.64.1",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -386570,12 +385340,6 @@
     {
       "ip": "222.104.86.196",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "222.104.139.4",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
