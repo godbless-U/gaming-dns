@@ -1,9 +1,9 @@
 {
   "schema": 2,
-  "generated_at": "2026-10-28T22:33:30Z",
+  "generated_at": "2026-10-29T05:45:09Z",
   "source_count": 4,
   "github_repository_count": 26,
-  "count": 68524,
+  "count": 68010,
   "items": [
     {
       "ip": "1.0.0.1",
@@ -33888,12 +33888,6 @@
       "gamingTagged": true
     },
     {
-      "ip": "192.0.2.8",
-      "source": "GitHub: PrestonCole9574/game-dns-control",
-      "category": "Gaming / GitHub",
-      "gamingTagged": true
-    },
-    {
       "ip": "192.3.26.101",
       "source": "GitHub public-dns-directory / all.txt",
       "category": "Gaming / GitHub",
@@ -63307,7 +63301,7 @@
     },
     {
       "ip": "5.10.138.214",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -66223,7 +66217,7 @@
     },
     {
       "ip": "5.79.101.123",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -78120,6 +78114,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "8.20.205.194",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "8.20.205.196",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -78145,13 +78145,13 @@
     },
     {
       "ip": "8.20.207.148",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
     {
       "ip": "8.20.207.149",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -78176,6 +78176,12 @@
     {
       "ip": "8.20.207.156",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "8.20.207.157",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -78210,6 +78216,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "8.20.247.6",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "8.20.247.7",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -78217,7 +78229,7 @@
     },
     {
       "ip": "8.20.247.8",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -78739,7 +78751,7 @@
     },
     {
       "ip": "8.20.247.124",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: Phasip/resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -78781,13 +78793,13 @@
     },
     {
       "ip": "8.20.247.133",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
     {
       "ip": "8.20.247.134",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -80329,7 +80341,7 @@
     },
     {
       "ip": "8.26.56.190",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -85975,7 +85987,7 @@
     },
     {
       "ip": "20.43.154.54",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -91351,7 +91363,7 @@
     },
     {
       "ip": "27.131.191.90",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -92977,7 +92989,7 @@
     },
     {
       "ip": "31.173.203.246",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -93426,32 +93438,8 @@
       "gamingTagged": false
     },
     {
-      "ip": "34.2.64.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "34.50.205.28",
       "source": "GitHub: OpenResolversFoundation/openresolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "34.64.0.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "34.64.1.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "34.64.2.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -93582,24 +93570,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "34.101.0.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "34.101.1.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "34.101.2.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "34.101.144.250",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -93620,12 +93590,6 @@
     {
       "ip": "34.106.54.18",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "34.116.32.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -93722,48 +93686,6 @@
     {
       "ip": "34.150.206.197",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "34.153.64.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "34.153.64.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "34.153.64.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "34.153.65.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "34.153.65.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "34.153.65.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "34.153.66.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -95995,7 +95917,7 @@
     },
     {
       "ip": "37.194.251.191",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -99073,7 +98995,7 @@
     },
     {
       "ip": "41.111.204.186",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -106260,6 +106182,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "45.163.147.122",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "45.163.147.204",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -113004,12 +112932,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "49.0.90.4",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "49.0.158.90",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -118543,7 +118465,7 @@
     },
     {
       "ip": "58.72.252.65",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -119473,7 +119395,7 @@
     },
     {
       "ip": "58.185.177.165",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -123835,7 +123757,7 @@
     },
     {
       "ip": "62.74.216.213",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -124093,7 +124015,7 @@
     },
     {
       "ip": "62.93.33.21",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -125275,7 +125197,7 @@
     },
     {
       "ip": "63.42.55.88",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -127063,7 +126985,7 @@
     },
     {
       "ip": "64.233.207.2",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -127135,7 +127057,7 @@
     },
     {
       "ip": "64.237.97.185",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -127423,7 +127345,7 @@
     },
     {
       "ip": "65.75.74.123",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -129367,7 +129289,7 @@
     },
     {
       "ip": "67.20.140.233",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -133009,7 +132931,7 @@
     },
     {
       "ip": "70.91.107.93",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -136508,6 +136430,12 @@
     {
       "ip": "72.167.40.133",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "72.167.42.99",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -144924,96 +144852,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "74.114.28.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.114.28.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.114.28.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.114.28.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.114.29.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.114.29.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.114.29.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.114.29.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.114.30.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.114.30.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.114.30.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.114.31.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.114.31.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.114.31.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.114.31.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "74.114.140.65",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -145129,13 +144967,13 @@
     },
     {
       "ip": "74.120.24.97",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
     {
       "ip": "74.120.24.129",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -145304,348 +145142,6 @@
     {
       "ip": "74.124.54.13",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.16.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.16.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.17.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.17.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.18.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.18.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.18.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.19.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.19.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.40.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.40.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.40.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.41.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.42.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.43.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.43.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.44.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.45.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.46.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.47.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.72.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.73.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.74.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.75.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.76.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.77.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.78.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.79.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.80.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.81.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.92.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.112.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.113.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.114.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.114.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.115.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.177.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.178.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.179.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.179.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.179.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.180.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.181.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.181.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.181.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.182.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.183.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.184.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.185.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.185.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.185.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.186.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.186.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.186.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.187.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.187.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "74.125.191.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -145922,6 +145418,12 @@
     {
       "ip": "74.174.149.158",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "74.174.200.5",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -153127,7 +152629,7 @@
     },
     {
       "ip": "77.78.205.16",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -153169,7 +152671,7 @@
     },
     {
       "ip": "77.79.133.19",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -155977,7 +155479,7 @@
     },
     {
       "ip": "78.9.110.22",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -156103,7 +155605,7 @@
     },
     {
       "ip": "78.25.128.130",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -157921,7 +157423,7 @@
     },
     {
       "ip": "78.108.101.23",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -159020,12 +158522,6 @@
     {
       "ip": "78.140.22.225",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "78.140.27.177",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -162829,7 +162325,7 @@
     },
     {
       "ip": "79.170.252.226",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -162841,7 +162337,7 @@
     },
     {
       "ip": "79.170.252.235",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -163153,7 +162649,7 @@
     },
     {
       "ip": "79.187.201.179",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -164911,7 +164407,7 @@
     },
     {
       "ip": "80.73.75.222",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -175717,7 +175213,7 @@
     },
     {
       "ip": "82.79.151.215",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -178495,7 +177991,7 @@
     },
     {
       "ip": "82.204.200.246",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -181794,6 +181290,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "83.171.114.10",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "83.171.114.66",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -182935,7 +182437,7 @@
     },
     {
       "ip": "83.211.204.182",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -189144,6 +188646,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "85.62.34.221",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "85.62.78.92",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -193015,7 +192523,7 @@
     },
     {
       "ip": "85.204.172.66",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -194682,6 +194190,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "85.235.59.11",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "85.235.62.212",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -195110,12 +194624,6 @@
     {
       "ip": "85.255.159.226",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "85.255.160.106",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -196800,12 +196308,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "86.122.48.169",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "86.122.48.236",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -197143,7 +196645,7 @@
     },
     {
       "ip": "86.188.131.209",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -200287,7 +199789,7 @@
     },
     {
       "ip": "87.244.225.209",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -203424,6 +202926,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "88.221.162.140",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "88.221.162.147",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -204811,7 +204319,7 @@
     },
     {
       "ip": "89.26.124.93",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: Phasip/resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -209293,7 +208801,7 @@
     },
     {
       "ip": "89.216.35.131",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -216966,6 +216474,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "91.126.217.123",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "91.126.230.118",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -219121,7 +218635,7 @@
     },
     {
       "ip": "91.194.246.45",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -219361,7 +218875,7 @@
     },
     {
       "ip": "91.200.0.15",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -221725,7 +221239,7 @@
     },
     {
       "ip": "91.227.23.66",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -229369,7 +228883,7 @@
     },
     {
       "ip": "92.255.97.70",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -230779,7 +230293,7 @@
     },
     {
       "ip": "93.85.92.171",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -232825,7 +232339,7 @@
     },
     {
       "ip": "93.158.35.122",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -243745,7 +243259,7 @@
     },
     {
       "ip": "95.87.216.107",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -248059,7 +247573,7 @@
     },
     {
       "ip": "96.30.79.84",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -248551,7 +248065,7 @@
     },
     {
       "ip": "96.73.116.29",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -256021,7 +255535,7 @@
     },
     {
       "ip": "102.214.14.1",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -257466,12 +256980,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "103.21.244.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "103.22.98.0",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -257498,12 +257006,6 @@
     {
       "ip": "103.22.98.50",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "103.22.200.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -257726,12 +257228,6 @@
     {
       "ip": "103.30.246.201",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "103.31.4.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -260467,7 +259963,7 @@
     },
     {
       "ip": "103.110.10.138",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -260479,7 +259975,7 @@
     },
     {
       "ip": "103.110.10.214",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -262939,7 +262435,7 @@
     },
     {
       "ip": "103.141.75.2",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -266449,7 +265945,7 @@
     },
     {
       "ip": "103.157.152.6",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -272664,6 +272160,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "103.232.32.246",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "103.232.123.88",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -272954,18 +272456,6 @@
     {
       "ip": "104.2.145.249",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "104.16.0.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "104.24.0.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -273931,7 +273421,7 @@
     },
     {
       "ip": "107.84.188.121",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -274568,12 +274058,6 @@
     {
       "ip": "108.161.133.137",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "108.162.192.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -285547,7 +285031,7 @@
     },
     {
       "ip": "117.20.54.242",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -285727,7 +285211,7 @@
     },
     {
       "ip": "117.121.215.101",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: Phasip/resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -289412,12 +288896,6 @@
     {
       "ip": "121.116.202.160",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "121.119.138.109",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -295578,6 +295056,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "130.244.126.99",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "130.244.126.100",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -295604,12 +295088,6 @@
     {
       "ip": "131.0.64.32",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "131.0.72.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -299556,12 +299034,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "141.101.64.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "141.101.231.210",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -299695,7 +299167,7 @@
     },
     {
       "ip": "141.193.223.166",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -301825,7 +301297,7 @@
     },
     {
       "ip": "148.78.200.7",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -305341,7 +304813,7 @@
     },
     {
       "ip": "156.154.70.2",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -305383,19 +304855,31 @@
     },
     {
       "ip": "156.154.70.13",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "156.154.70.18",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
     {
       "ip": "156.154.70.20",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
     {
       "ip": "156.154.70.22",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "156.154.70.25",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -305407,7 +304891,7 @@
     },
     {
       "ip": "156.154.70.36",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -305418,32 +304902,20 @@
       "gamingTagged": false
     },
     {
-      "ip": "156.154.70.43",
+      "ip": "156.154.70.44",
       "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
     {
-      "ip": "156.154.70.44",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "156.154.70.49",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
     {
       "ip": "156.154.70.50",
       "source": "GitHub: OpenResolversFoundation/openresolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "156.154.70.56",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -305455,7 +304927,7 @@
     },
     {
       "ip": "156.154.70.61",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -305473,7 +304945,7 @@
     },
     {
       "ip": "156.154.71.5",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -305521,13 +304993,25 @@
     },
     {
       "ip": "156.154.71.43",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "156.154.71.44",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
     {
       "ip": "156.154.71.46",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "156.154.71.50",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -308192,12 +307676,6 @@
     {
       "ip": "162.155.248.54",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "162.158.0.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -323917,7 +323395,7 @@
     },
     {
       "ip": "166.203.128.183",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -323929,7 +323407,7 @@
     },
     {
       "ip": "166.203.255.148",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -327642,12 +327120,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "172.64.0.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "172.64.32.39",
       "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
@@ -328692,426 +328164,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "172.217.32.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.32.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.32.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.33.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.33.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.34.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.34.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.34.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.34.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.35.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.35.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.35.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.35.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.36.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.37.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.37.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.37.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.38.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.38.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.38.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.39.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.39.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.40.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.40.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.41.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.41.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.41.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.42.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.42.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.43.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.43.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.43.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.44.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.44.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.44.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.45.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.45.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.46.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.47.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.47.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.96.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.96.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.96.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.96.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.97.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.97.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.97.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.98.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.106.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.106.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.106.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.107.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.107.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.107.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.107.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.108.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.108.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.108.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.108.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.109.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.109.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.109.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.109.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.110.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.110.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.110.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.111.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.111.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.111.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.217.111.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "172.221.116.31",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -329162,1566 +328214,6 @@
     {
       "ip": "172.252.150.13",
       "source": "GitHub: OpenResolversFoundation/openresolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.0.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.0.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.1.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.1.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.1.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.2.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.2.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.2.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.3.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.3.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.3.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.4.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.4.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.5.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.5.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.6.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.6.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.7.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.7.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.7.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.8.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.8.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.8.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.9.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.9.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.9.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.10.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.10.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.11.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.11.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.11.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.12.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.12.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.13.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.13.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.13.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.14.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.14.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.14.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.15.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.15.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.15.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.80.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.80.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.80.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.80.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.81.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.81.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.81.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.81.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.82.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.82.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.82.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.82.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.83.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.83.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.83.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.83.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.84.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.84.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.84.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.84.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.85.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.85.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.85.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.86.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.86.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.86.160",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.86.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.87.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.87.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.87.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.88.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.88.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.88.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.88.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.88.224",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.89.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.89.32",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.89.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.89.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.89.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.89.224",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.90.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.90.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.90.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.90.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.91.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.91.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.91.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.91.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.92.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.92.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.92.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.92.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.93.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.93.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.93.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.93.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.94.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.94.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.94.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.95.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.95.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.95.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.184.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.184.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.184.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.184.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.185.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.185.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.185.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.185.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.186.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.186.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.186.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.186.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.187.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.187.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.187.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.187.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.188.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.188.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.188.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.189.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.189.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.189.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.189.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.190.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.190.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.190.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.190.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.191.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.191.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.191.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.191.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.192.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.193.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.193.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.193.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.194.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.194.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.195.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.195.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.196.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.196.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.196.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.197.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.197.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.197.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.198.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.198.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.199.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.199.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.199.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.200.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.200.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.201.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.201.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.202.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.204.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.204.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.205.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.206.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.209.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.209.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.210.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.211.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.211.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.211.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.212.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.212.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.212.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.213.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.213.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.213.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.214.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.214.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.214.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.215.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.215.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.215.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.216.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.216.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.216.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.217.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.217.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.218.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.218.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.218.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.219.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.219.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.219.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.220.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.220.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.220.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.221.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.221.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.221.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.222.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.222.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.222.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.223.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.223.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.223.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.224.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.225.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.226.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.227.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.227.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.227.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.228.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.228.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.228.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.229.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.229.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.229.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.230.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.230.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.230.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.231.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.231.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.231.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.232.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.232.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.232.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.233.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.233.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.234.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.235.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.235.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.236.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.236.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.236.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.237.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.237.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.238.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.238.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.239.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.239.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.239.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.240.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.241.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.242.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.243.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.244.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.244.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.244.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.245.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.247.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.248.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.249.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.249.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.249.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.250.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.251.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.252.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.253.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.254.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "172.253.255.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -331206,144 +328698,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "173.194.90.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "173.194.91.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "173.194.93.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "173.194.94.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "173.194.95.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "173.194.96.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "173.194.96.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "173.194.97.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "173.194.98.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "173.194.99.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "173.194.99.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "173.194.100.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "173.194.101.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "173.194.102.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "173.194.103.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "173.194.168.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "173.194.168.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "173.194.168.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "173.194.169.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "173.194.170.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "173.194.171.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "173.194.171.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "173.194.171.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "173.196.5.186",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -331554,12 +328908,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "173.223.99.92",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "173.223.99.161",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -331754,12 +329102,6 @@
     {
       "ip": "173.244.51.54",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "173.245.48.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -333931,7 +331273,7 @@
     },
     {
       "ip": "175.207.242.72",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -335797,7 +333139,7 @@
     },
     {
       "ip": "176.197.7.54",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -337752,6 +335094,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "177.87.57.15",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "177.87.168.6",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -339127,7 +336475,7 @@
     },
     {
       "ip": "177.244.25.118",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -339205,7 +336553,7 @@
     },
     {
       "ip": "178.17.127.129",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -341371,7 +338719,7 @@
     },
     {
       "ip": "178.239.224.161",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -342907,7 +340255,7 @@
     },
     {
       "ip": "180.150.106.27",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -346986,12 +344334,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "182.78.164.254",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "182.78.166.110",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -350221,7 +347563,7 @@
     },
     {
       "ip": "185.21.66.253",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -351889,7 +349231,7 @@
     },
     {
       "ip": "185.105.171.128",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -351913,7 +349255,7 @@
     },
     {
       "ip": "185.108.21.6",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -355501,7 +352843,7 @@
     },
     {
       "ip": "186.96.11.196",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -360642,6 +357984,18 @@
       "gamingTagged": false
     },
     {
+      "ip": "188.92.209.129",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "188.92.214.1",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "188.92.241.214",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -360734,12 +358088,6 @@
     {
       "ip": "188.113.182.211",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "188.114.96.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -360907,7 +358255,7 @@
     },
     {
       "ip": "188.122.4.78",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -362521,7 +359869,7 @@
     },
     {
       "ip": "189.51.118.34",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -362804,6 +360152,12 @@
     {
       "ip": "189.90.248.109",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "189.91.55.41",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -363805,7 +361159,7 @@
     },
     {
       "ip": "190.0.14.18",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -364783,7 +362137,7 @@
     },
     {
       "ip": "190.63.160.34",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -365382,12 +362736,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "190.93.240.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "190.94.169.69",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -365881,7 +363229,7 @@
     },
     {
       "ip": "190.107.20.190",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -370200,438 +367548,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "192.178.36.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.36.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.36.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.37.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.37.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.37.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.38.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.38.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.38.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.38.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.39.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.39.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.39.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.64.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.65.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.65.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.65.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.66.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.66.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.67.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.67.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.67.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.92.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.92.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.92.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.92.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.93.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.93.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.93.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.93.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.94.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.94.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.94.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.94.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.95.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.95.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.95.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.112.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.112.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.112.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.112.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.113.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.113.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.113.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.113.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.114.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.114.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.115.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.115.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.115.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.115.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.116.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.116.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.116.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.117.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.117.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.118.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.118.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.118.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.118.192",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.119.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.119.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.178.119.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.179.40.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.179.40.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.179.41.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.179.42.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.179.42.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.179.43.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.179.43.128",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.179.44.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "192.179.44.64",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "192.180.160.14",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -371450,12 +368366,6 @@
     {
       "ip": "193.84.244.119",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "193.85.30.34",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -376345,7 +373255,7 @@
     },
     {
       "ip": "195.110.25.248",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -378438,12 +375348,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "196.179.250.10",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "196.179.250.11",
       "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
@@ -378469,7 +375373,7 @@
     },
     {
       "ip": "196.179.250.95",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -379770,12 +376674,6 @@
       "gamingTagged": false
     },
     {
-      "ip": "197.234.240.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
       "ip": "197.235.15.47",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -380258,12 +377156,6 @@
     {
       "ip": "198.38.92.185",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "198.41.128.0",
-      "source": "GitHub: e-kcltgit/trusted-service-ranges",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -381356,6 +378248,12 @@
     {
       "ip": "199.115.147.125",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "199.116.60.3",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -383299,7 +380197,7 @@
     },
     {
       "ip": "200.85.61.90",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -383479,7 +380377,7 @@
     },
     {
       "ip": "200.98.82.71",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -389845,7 +386743,7 @@
     },
     {
       "ip": "203.38.224.193",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -391111,7 +388009,7 @@
     },
     {
       "ip": "203.177.215.1",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -393205,7 +390103,7 @@
     },
     {
       "ip": "206.41.4.36",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: OpenResolversFoundation/openresolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -394626,6 +391524,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "208.72.120.204",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "208.73.205.206",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -394718,6 +391622,12 @@
     {
       "ip": "208.78.220.65",
       "source": "public-dns.info",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
+      "ip": "208.79.56.204",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -396948,6 +393858,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "210.102.248.37",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "210.103.39.137",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -398281,7 +395197,7 @@
     },
     {
       "ip": "211.33.40.5",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -398491,7 +395407,7 @@
     },
     {
       "ip": "211.60.199.66",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -399414,6 +396330,12 @@
       "gamingTagged": false
     },
     {
+      "ip": "211.254.92.254",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "category": "Public DNS",
+      "gamingTagged": false
+    },
+    {
       "ip": "211.255.161.129",
       "source": "public-dns.info",
       "category": "Public DNS",
@@ -399577,7 +396499,7 @@
     },
     {
       "ip": "212.5.128.228",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -401312,12 +398234,6 @@
     {
       "ip": "212.154.175.202",
       "source": "public-dns.info",
-      "category": "Public DNS",
-      "gamingTagged": false
-    },
-    {
-      "ip": "212.154.228.178",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -408637,7 +405553,7 @@
     },
     {
       "ip": "219.250.36.130",
-      "source": "GitHub: 0xAb1d/TrueResolvers",
+      "source": "GitHub: Phasip/resolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
@@ -409141,7 +406057,7 @@
     },
     {
       "ip": "220.130.55.196",
-      "source": "GitHub: OpenResolversFoundation/openresolvers",
+      "source": "GitHub: 0xAb1d/TrueResolvers",
       "category": "Public DNS",
       "gamingTagged": false
     },
